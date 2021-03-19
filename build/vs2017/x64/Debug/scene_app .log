@@ -1,0 +1,17 @@
+﻿  scene_app.cpp
+  Intro.cpp
+c:\users\ollie\desktop\grapnel garry\grapnel garry\build\vs2017\intro.cpp(22): warning C4244: 'argument': conversion from 'Int32' to 'const float', possible loss of data
+c:\users\ollie\desktop\grapnel garry\grapnel garry\build\vs2017\intro.cpp(23): warning C4244: 'argument': conversion from 'Int32' to 'const float', possible loss of data
+c:\users\ollie\desktop\grapnel garry\grapnel garry\build\vs2017\intro.cpp(24): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Level.cpp
+c:\users\ollie\desktop\grapnel garry\grapnel garry\build\vs2017\level.cpp(85): warning C4305: 'argument': truncation from 'double' to 'float32'
+c:\users\ollie\desktop\grapnel garry\grapnel garry\build\vs2017\level.cpp(121): warning C4244: 'argument': conversion from 'Int32' to 'const float', possible loss of data
+c:\users\ollie\desktop\grapnel garry\grapnel garry\build\vs2017\level.cpp(122): warning C4244: 'argument': conversion from 'Int32' to 'const float', possible loss of data
+c:\users\ollie\desktop\grapnel garry\grapnel garry\build\vs2017\level.cpp(129): warning C4244: 'argument': conversion from 'Int32' to 'const float', possible loss of data
+  Menu.cpp
+c:\users\ollie\desktop\grapnel garry\grapnel garry\build\vs2017\menu.cpp(21): warning C4244: 'argument': conversion from 'Int32' to 'const float', possible loss of data
+c:\users\ollie\desktop\grapnel garry\grapnel garry\build\vs2017\menu.cpp(22): warning C4244: 'argument': conversion from 'Int32' to 'const float', possible loss of data
+c:\users\ollie\desktop\grapnel garry\grapnel garry\build\vs2017\menu.cpp(23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+c:\users\ollie\desktop\grapnel garry\grapnel garry\build\vs2017\level.cpp(937): warning C4715: 'Level::ChangeFace': not all control paths return a value
+  scene_app.vcxproj -> C:\Users\ollie\Desktop\Grapnel Garry\Grapnel Garry\build\vs2017\x64\Debug\scene_app.exe
